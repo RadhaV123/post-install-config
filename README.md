@@ -18,7 +18,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="a1.jpg"/>
 </p>
 <p>
 Step 1. Configure Roles
@@ -31,7 +31,7 @@ Step 1. Configure Roles
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="a2.jpg"/>
 </p>
 <p>
 Step 2. Configure Departments
@@ -43,7 +43,7 @@ Step 2. Configure Departments
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="a3.jpg"/>
 </p>
 <p>
 Step 3. Configure Teams
@@ -56,7 +56,7 @@ Note: There should be a "Level I Support" team already there
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="a4.jpg"/>
 </p>
 <p>
 Step 4. Allow anyone to create tickets
@@ -66,7 +66,7 @@ Step 4. Allow anyone to create tickets
 </p> 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="a5.jpg"/>
 </p>
 <p>
 Step 5. Configure Agents (Workers)
@@ -74,11 +74,10 @@ Step 5. Configure Agents (Workers)
 - Admin Panel -> Agents -> Add New Agent
 - Jane Doe - username: Jane.doe, "Access" System Administrators and Superb Admin, "Teams" put on Team II
 - John Doe - username: John.doe, "Access" Support, View only
-
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="a5.jpg"/>
 </p>
 <p>
 Step 6. Configure Users (Customers)
@@ -87,9 +86,8 @@ Step 6. Configure Users (Customers)
 - Sarah Doe
 - Ken Doe
 </p>
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="a9.jpg"/>
 </p>
 <p>
 Step 7. Configure SLA
@@ -100,7 +98,7 @@ Step 7. Configure SLA
 - Sev-C (8 hours, Business Hours)
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="a10.jpg"/>
 </p>
 <p>
 Step 8. Configure Help Topics
